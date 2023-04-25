@@ -1,0 +1,93 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Projekt
+build_property.RootNamespace = Projekt
+build_property.ProjectDir = C:\Users\mateu\Desktop\ProjektKomplet\Projekt\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\mateu\Desktop\ProjektKomplet\Projekt
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/mateu/Desktop/ProjektKomplet/Projekt/Views/Films/DeleteFilm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbXNcRGVsZXRlRmlsbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mateu/Desktop/ProjektKomplet/Projekt/Views/Films/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mateu/Desktop/ProjektKomplet/Projekt/Views/Films/InsertNewFilm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbXNcSW5zZXJ0TmV3RmlsbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mateu/Desktop/ProjektKomplet/Projekt/Views/Films/UpDateFilm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbXNcVXBEYXRlRmlsbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mateu/Desktop/ProjektKomplet/Projekt/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mateu/Desktop/ProjektKomplet/Projekt/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mateu/Desktop/ProjektKomplet/Projekt/Views/Rent/DeleteRent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVudFxEZWxldGVSZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mateu/Desktop/ProjektKomplet/Projekt/Views/Rent/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mateu/Desktop/ProjektKomplet/Projekt/Views/Rent/RentFilms.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVudFxSZW50RmlsbXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mateu/Desktop/ProjektKomplet/Projekt/Views/Rent/ReturnRent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVudFxSZXR1cm5SZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mateu/Desktop/ProjektKomplet/Projekt/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mateu/Desktop/ProjektKomplet/Projekt/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mateu/Desktop/ProjektKomplet/Projekt/Views/Users/CreateUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlVXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mateu/Desktop/ProjektKomplet/Projekt/Views/Users/DeleteUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGVsZXRlVXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mateu/Desktop/ProjektKomplet/Projekt/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mateu/Desktop/ProjektKomplet/Projekt/Views/Users/UpDateUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcVXBEYXRlVXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mateu/Desktop/ProjektKomplet/Projekt/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mateu/Desktop/ProjektKomplet/Projekt/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mateu/Desktop/ProjektKomplet/Projekt/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-pwdsqgl44g

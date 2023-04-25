@@ -1,0 +1,42 @@
+﻿@model Projekt.Models.Rents.RentViewModel
+@{
+    ViewData["Title"] = "Lista Wypożyczeń";
+}
+@if(TempData["message"] !=null){
+    <script>
+        alert('@TempData["message"]');
+    </script>
+}
+<div class="text-center">
+    <h1 class="display-4">Lista wypożyczeń</h1>
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th scope="col">ID</th>
+                <th scope="col">Tytuł filmu</th>
+                <th scope="col">Imię i nazwisko wypożyczającego</th>
+                <th scope="col">Data wypożyczenia</th>
+                <th scope="col">Data zwrotu</th>
+                <th scope="col">Czy zwrócono?</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Rents)
+            {
+                <tr>
+                    <td scope="row">@item.Id</td>
+                    <td scope="row">@item.Film.Title</td>
+                    <td scope="row">@item.User.FirstName @item.User.LastName</td>
+                    <td scope="row">@item.RentalDate.ToShortDateString()</td>
+                    <td scope="row">@item.ReturnDate.ToShortDateString()</td>
+                    <td scope="row">@(item.IsReturned?"Zwrócono":"Nie zwrócono")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <div class="text-center m-5">
+        <a class="btn btn-outline-success" asp-area="" asp-controller="Rent" asp-action="RentFilms" role="button">Wypożycz</a>
+        <a class="btn btn-outline-warning" asp-area="" asp-controller="Rent" asp-action="DeleteRent" role="button">Anuluj wypożyczenie</a>
+        <a class="btn btn-outline-danger" asp-area="" asp-controller="Rent" asp-action="ReturnRent" role="button">Zwróć film</a>
+    </div>
+</div>
